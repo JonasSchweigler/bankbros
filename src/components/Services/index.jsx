@@ -10,19 +10,19 @@ const Services = () => {
             <ServicesH1>Our Benefits</ServicesH1>
             <ServicesWrapper>
                 <ServicesCard>
-                    <ServicesIcon src={icon1}/>
-                    <ServicesH2>Reduce expenses</ServicesH2>
-                    <ServicesP>We help reduce your fees and increase your overall revenue.</ServicesP>
+                    <ServicesIcon src={icon3}/>
+                    <ServicesH2>Day trading discussion</ServicesH2>
+                    <ServicesP>Chat or discuss about anything related to day trading.</ServicesP>
                 </ServicesCard>
                     <ServicesCard>
-                        <ServicesIcon src={icon2}/>
-                        <ServicesH2>Virtual Offices</ServicesH2>
-                        <ServicesP>You can access our platform online anywhere in the world.</ServicesP>
+                        <ServicesIcon src={icon1}/>
+                        <ServicesH2>Giveaways</ServicesH2>
+                        <ServicesP>Weekly/Bi-Weekly giveaways for Bank Bros’s Premium members only.</ServicesP>
                     </ServicesCard>
                         <ServicesCard>
-                            <ServicesIcon src={icon3}/>
-                            <ServicesH2>Premium Benefits</ServicesH2>
-                            <ServicesP>Unlock our special membership card that returns 5% cash back.</ServicesP>
+                            <ServicesIcon src={icon2}/>
+                            <ServicesH2>Daily voice chat</ServicesH2>
+                            <ServicesP>Informative voice training sessions. Live stock trading sessions and more.</ServicesP>
                         </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>
