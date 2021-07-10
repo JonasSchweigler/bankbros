@@ -48,7 +48,7 @@ const SignInPage = () => {
                 <ScrollButton />
             <ContentWrapper  id='join'>
                 <Title>Our Options</Title>
-                <JoinSection>
+{/*                <JoinSection>
                     <TextWrapper>
                         <UnderTitle style={{
                             'color' : 'lightgreen',
@@ -91,7 +91,7 @@ const SignInPage = () => {
                 <hr style={{
                     'margin': '20px',
                     'width' : '70%',
-                }} />
+                }} />*/}
                 <JoinSection>
                     <BenefitWrapper>
                         <BenefitBox>
